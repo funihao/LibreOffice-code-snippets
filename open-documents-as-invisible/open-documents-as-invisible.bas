@@ -12,6 +12,7 @@
 '**
 '** 4) Displays the text all cell 0,0's of the documents found in a messagebox
 '**
+'**
 '** 6. June 2015, Martin Sauter
 '** 
 '************************************************************************************
